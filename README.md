@@ -3,4 +3,4 @@ List of Web Design Projects
 
 This is a list of web design projects I am completing while I learn #HTML and #CSS.
 
-To view each website: https://htmlpreview.github.io/{insert link address of index.html file in each directory}
+To view each website: https://htmlpreview.github.io/ {insert link address of index.html file in each directory}
